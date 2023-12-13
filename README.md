@@ -2,7 +2,7 @@
 
 
 ________________________________________
-@CopyRight Nitesh Rawal # 👇
+#  👇
 #### 
 Image Compression with K-Means Clustering Project is Build Using Python , K-mean and scikit-learn:.:
 1.	Explain the steps involved in k-means clustering.
@@ -43,6 +43,14 @@ Task 6: K-means Image Compression with Interactive Controls
 •	Visualize how the image changes as the number of clusters fed to the k-means algorithm is varied.
 .
 ________________________________________
+
+## Screenshots
+
+![Screenshot](path/to/images/turtle.png)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 Image Compression with K-Mean Clustering #MLproject Unsupervised Technique based on 16 million colors represented as 16 colors to compress the image
 That involved k-means clustering with scikit-learn and Python to compress images by Creating interactive, GUI components in Jupyter notebooks using Jupyter widgets
