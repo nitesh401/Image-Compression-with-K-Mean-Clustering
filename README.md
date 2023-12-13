@@ -46,7 +46,7 @@ ________________________________________
 
 ## Screenshots
 
-![Screenshot](path/to/images/turtle.png)
+![Result](images/turtle.png)
 
 ## License
 
